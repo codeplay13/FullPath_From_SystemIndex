@@ -1,0 +1,7 @@
+c:\users\abhishek\documents\visual studio 2015\Projects\Path_From_SystemIndex_CSharp\Path_From_SystemIndex_CSharp\bin\Debug\Path_From_SystemIndex_CSharp.exe.config
+c:\users\abhishek\documents\visual studio 2015\Projects\Path_From_SystemIndex_CSharp\Path_From_SystemIndex_CSharp\bin\Debug\Path_From_SystemIndex_CSharp.exe
+c:\users\abhishek\documents\visual studio 2015\Projects\Path_From_SystemIndex_CSharp\Path_From_SystemIndex_CSharp\bin\Debug\Path_From_SystemIndex_CSharp.pdb
+c:\users\abhishek\documents\visual studio 2015\Projects\Path_From_SystemIndex_CSharp\Path_From_SystemIndex_CSharp\obj\Debug\Path_From_SystemIndex_CSharp.exe
+c:\users\abhishek\documents\visual studio 2015\Projects\Path_From_SystemIndex_CSharp\Path_From_SystemIndex_CSharp\obj\Debug\Path_From_SystemIndex_CSharp.pdb
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\Path_From_SystemIndex_CSharp\Path_From_SystemIndex_CSharp\obj\Debug\Path_From_SystemIndex_CSharp.csprojAssemblyReference.cache
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\Path_From_SystemIndex_CSharp\Path_From_SystemIndex_CSharp\obj\Debug\Path_From_SystemIndex_CSharp.csproj.CoreCompileInputs.cache
